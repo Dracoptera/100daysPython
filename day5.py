@@ -45,3 +45,5 @@ for c in password:
     hard_password += password[ran_num]
 
 print(f"Hard one: {hard_password}")
+
+# NOTE: Can also use random.choice() and random.shuffle() to solve this.
